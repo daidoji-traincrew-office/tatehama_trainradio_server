@@ -1,0 +1,6 @@
+@tatehama_trainradio_server_HostAddress = http://localhost:5103
+
+GET {{tatehama_trainradio_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
