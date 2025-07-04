@@ -1,0 +1,12 @@
+C:\Users\yuma1\OneDrive\ドキュメント\GitHub\tatehama_trainradio_server\bin\Release\net8.0\linux-x64\publish\tatehama_trainradio_server
+C:\Users\yuma1\OneDrive\ドキュメント\GitHub\tatehama_trainradio_server\bin\Release\net8.0\linux-x64\publish\appsettings.Development.json
+C:\Users\yuma1\OneDrive\ドキュメント\GitHub\tatehama_trainradio_server\bin\Release\net8.0\linux-x64\publish\appsettings.json
+C:\Users\yuma1\OneDrive\ドキュメント\GitHub\tatehama_trainradio_server\bin\Release\net8.0\linux-x64\publish\tatehama_trainradio_server.dll
+C:\Users\yuma1\OneDrive\ドキュメント\GitHub\tatehama_trainradio_server\bin\Release\net8.0\linux-x64\publish\tatehama_trainradio_server.deps.json
+C:\Users\yuma1\OneDrive\ドキュメント\GitHub\tatehama_trainradio_server\bin\Release\net8.0\linux-x64\publish\tatehama_trainradio_server.runtimeconfig.json
+C:\Users\yuma1\OneDrive\ドキュメント\GitHub\tatehama_trainradio_server\bin\Release\net8.0\linux-x64\publish\tatehama_trainradio_server.pdb
+C:\Users\yuma1\OneDrive\ドキュメント\GitHub\tatehama_trainradio_server\bin\Release\net8.0\linux-x64\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\yuma1\OneDrive\ドキュメント\GitHub\tatehama_trainradio_server\bin\Release\net8.0\linux-x64\publish\Microsoft.OpenApi.dll
+C:\Users\yuma1\OneDrive\ドキュメント\GitHub\tatehama_trainradio_server\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yuma1\OneDrive\ドキュメント\GitHub\tatehama_trainradio_server\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yuma1\OneDrive\ドキュメント\GitHub\tatehama_trainradio_server\bin\Release\net8.0\linux-x64\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

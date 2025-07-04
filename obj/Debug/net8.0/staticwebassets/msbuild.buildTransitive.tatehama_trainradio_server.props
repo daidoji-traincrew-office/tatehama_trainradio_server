@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\tatehama_trainradio_server.props" />
+</Project>
